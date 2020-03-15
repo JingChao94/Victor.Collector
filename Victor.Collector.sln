@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Victor.Collector.Plugin", "
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Victor.Collector.Utils", "Victor.Collector.Utils\Victor.Collector.Utils.csproj", "{37C351EB-04DA-4F7C-929F-5CBB650DB744}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Victor.Collector.TestDemo", "Victor.Collector.TestDemo\Victor.Collector.TestDemo.csproj", "{BD8144BB-C2C9-4326-8669-C8274E585BD8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{37C351EB-04DA-4F7C-929F-5CBB650DB744}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{37C351EB-04DA-4F7C-929F-5CBB650DB744}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{37C351EB-04DA-4F7C-929F-5CBB650DB744}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BD8144BB-C2C9-4326-8669-C8274E585BD8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BD8144BB-C2C9-4326-8669-C8274E585BD8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BD8144BB-C2C9-4326-8669-C8274E585BD8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BD8144BB-C2C9-4326-8669-C8274E585BD8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
